@@ -6,6 +6,7 @@ module.exports = {
         ['link', { rel: 'icon', href: './icon.ico' }]
     ],
     themeConfig: {
+        search: false,
         sidebar: [
             '/',
             '/two',
